@@ -1,2 +1,7 @@
-# Portfolio
-Data Analytics portfolio – SQL, Python, Excel, Power BI projects
+# 📁 Data Analytics Portfolio
+
+##  Projects
+
+## 🛢 SQL & Python Projects
+- **E-Commerce Business Analysis**  
+  👉 
